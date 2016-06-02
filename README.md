@@ -10,7 +10,8 @@ This app listens to the accelerometer on the watch and displays a green intensit
 
 <!-- include image extension in url -->
 <!-- ![Tooltip Light](http://s21.postimg.org/ikiw1bod3/accelme1.png) -->
-<img src="http://s21.postimg.org/ikiw1bod3/accelme1.png" alt="AccelMe App" style="max-width: 250px; margin: 0 auto;"/>
+
+<img src="http://s21.postimg.org/ikiw1bod3/accelme1.png" alt="AccelMe App" width="300"/>
 
 
 
