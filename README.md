@@ -1,32 +1,30 @@
 AccelMe Android Wearable Application
 ===================================
 
-Samples demonstrating how to create a basic Android Wearable/Mobile Integrated application. This demo was made for a short introduction presentation at UCLA.
+Sample Android Project demonstrating how to create a basic Android Wearable/Mobile Integrated application. This demo was made for a short wearable introduction presentation at UCLA on 4/8/2016.
 
-This app creates a transparent activity that runs in the background on the watch, while information is still being delivered to the phone. This could also be extended on the phone to make post requests to your remote server. A common use case for wearables is having wearable sensors collect data in the background, without any display on the watch itself.
-
-This app listens to the accelerometer on the watch and displays a green intensity value on the phone between 00-ff depending on the intensity of the watch acceleration.
+This app creates a transparent activity that runs in the background on the wearable, while information is still being delivered to the phone. This could also be extended on the phone to make post requests to your remote server. A common use case is to have the wearable sensors collect data in the background and run transparently (once launched) on the wearable itself.
 
 
-<!-- include image extension in url -->
-<!-- ![Tooltip Light](http://s21.postimg.org/ikiw1bod3/accelme1.png) -->
+Below is a screenshot of what the app looks like while running on your mobile device. When the sensors are on, the shown value and background color will change depending on the intensity of the acceleration movement of the wearable.
 
 <img src="http://s21.postimg.org/ikiw1bod3/accelme1.png" alt="AccelMe App" width="300"/>
 
+Select the app icon on both the mobile and wearable to start.
 
 
 Pre-requisites
 --------------
 
 App requires an up to date version of the Android build tools and the Android support repository.
-Android Wearable Device
+Android Wearable Device (Smartwatch)
 Android Mobile Device
 
 
 Getting Started
 ---------------
 
-This demo uses the Gradle build system.
+This demo project uses the Gradle build system.
 
 First download the demo by cloning this repository
 
